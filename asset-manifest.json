@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kombusq/slider/static/css/main.1fd96882.css",
-    "main.js": "/kombusq/slider/static/js/main.2227d121.js",
+    "main.js": "/kombusq/slider/static/js/main.30e33cf3.js",
     "index.html": "/kombusq/slider/index.html",
     "main.1fd96882.css.map": "/kombusq/slider/static/css/main.1fd96882.css.map",
-    "main.2227d121.js.map": "/kombusq/slider/static/js/main.2227d121.js.map"
+    "main.30e33cf3.js.map": "/kombusq/slider/static/js/main.30e33cf3.js.map"
   },
   "entrypoints": [
     "static/css/main.1fd96882.css",
-    "static/js/main.2227d121.js"
+    "static/js/main.30e33cf3.js"
   ]
 }
