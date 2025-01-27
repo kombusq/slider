@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kombusq/slider/static/css/main.80958aa7.css",
+    "main.js": "/kombusq/slider/static/js/main.7dd36db7.js",
+    "index.html": "/kombusq/slider/index.html",
+    "main.80958aa7.css.map": "/kombusq/slider/static/css/main.80958aa7.css.map",
+    "main.7dd36db7.js.map": "/kombusq/slider/static/js/main.7dd36db7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80958aa7.css",
+    "static/js/main.7dd36db7.js"
+  ]
+}
